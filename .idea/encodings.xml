@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/fastdfstest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-content" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-content/pinyougou-content-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-content/pinyougou-content-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-item-import" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-item-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-search/pinyougou-search-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-search/pinyougou-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-sellergoods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou/pinyougou-shop-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-test" charset="UTF-8" />
+    <file url="file://E:/pinyougou4ljb/day13(ActiveMQ&amp;商品同步)/资料/itcast-activemq" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

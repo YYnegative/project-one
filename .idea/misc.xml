@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-content/pinyougou-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-manage-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-search/pinyougou-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-security" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pinyougou/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-test/pom.xml" />
+        <option value="E:/pinyougou4ljb/day06(商品分类列表&amp;商品录入)/资料/FastDFS/fastdfs_client/pom.xml" />
+        <option value="$PROJECT_DIR$/fastdfstest/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/freemarker-test/pom.xml" />
+        <option value="E:/pinyougou4ljb/day13(ActiveMQ&amp;商品同步)/资料/itcast-activemq/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
